@@ -4,7 +4,7 @@
 
 A high-fidelity, editorial-style professional portfolio showcasing expertise in AI architecture, systems transformation, and human-centric design.
 
-![Portfolio Preview](assets/portfolio-hero.png?v=1.1)
+![Portfolio Preview](assets/portfolio-main.png)
 
 ## 🚀 Overview
 
