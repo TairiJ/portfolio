@@ -564,6 +564,10 @@ footer .nav-cta:hover {
         font-size: 80%; /* Scale down everything by 20% to fit mobile screens better */
     }
 
+    .container {
+        padding: 0 15px; /* Reduce side padding to make content width bigger */
+    }
+
     .nav-links { display: none; }
     
     /* Hero */
@@ -620,6 +624,8 @@ footer .nav-cta:hover {
     }
     .project-links {
         justify-content: center;
+        flex-wrap: wrap;
+        gap: 1rem;
     }
     
     /* Skills */
