@@ -565,6 +565,7 @@ footer .nav-cta:hover {
     /* Hero */
     .hero { 
         padding-top: 25vh; 
+        min-height: auto;
         text-align: center; 
     }
     .hero-main h1 { 
