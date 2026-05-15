@@ -597,6 +597,12 @@ footer .nav-cta:hover {
     }
     
     /* Projects */
+    .projects {
+        padding: 5vh 0;
+    }
+    .project-item {
+        padding: 3rem 0;
+    }
     .project-info {
         text-align: center;
     }
@@ -611,7 +617,15 @@ footer .nav-cta:hover {
         justify-content: center;
     }
     
+    /* Skills */
+    .skills-section {
+        padding: 5vh 0;
+    }
+    
     /* Spirit */
+    .spirit-section {
+        padding: 5vh 0;
+    }
     .massive-quote {
         text-align: center;
     }
