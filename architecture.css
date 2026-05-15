@@ -583,6 +583,7 @@ footer .nav-cta:hover {
     .hero-main .word {
         margin: 0 auto;
         text-align: center;
+        white-space: normal; /* Allow text to wrap to prevent pushing the screen width */
     }
     .hero-side {
         padding-left: 0;
@@ -591,6 +592,14 @@ footer .nav-cta:hover {
     .hero-cta {
         display: flex;
         justify-content: center;
+    }
+    .personality-blob {
+        width: 280px !important; /* Force smaller size on mobile */
+        height: 280px !important;
+        margin: 0 auto;
+    }
+    .personality-blob .potential-text {
+        font-size: 4rem; /* Scale down text inside blob */
     }
     
     /* Metrics */
