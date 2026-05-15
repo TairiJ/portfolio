@@ -556,7 +556,7 @@ footer .nav-cta:hover {
     .hero-grid { grid-template-columns: 1fr; }
     .hero-main .indent { margin-left: 0; }
     .project-item { grid-template-columns: 1fr; }
-    .metrics-grid { grid-template-columns: repeat(2, 1fr); }
+    .metrics-grid { flex-direction: column; gap: 2rem; }
 }
 
 @media (max-width: 768px) {
