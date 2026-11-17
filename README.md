@@ -38,7 +38,7 @@ Visit the live site: [https://tairij.github.io/portfolio/](https://tairij.github
 ---
 Built with Spirit & Code by **Tairi Johnson**.
 
-# Later Addidtion:
+# Later Addition:
 
 # 1. Portfolio + career research
 - **Individual Record & Index:** https://github.com/tairij/portfolio#readme
